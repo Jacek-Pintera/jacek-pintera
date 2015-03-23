@@ -12,18 +12,15 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: My awesome site
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Jacek Pintera
+  github: Jacek-Pintera
+  twitter: JacekPintera
+  bio: Java/C# developer
+  email_md5: e8ce8b69a66a23ea50d1126cf1198353
 
 rss_path: feed.xml
 categories_path: categories.html
